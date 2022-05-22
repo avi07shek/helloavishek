@@ -1,5 +1,3 @@
-from re import X
-
 
 def sum(*x):
     z=x[0]+x[1]+x[2]
